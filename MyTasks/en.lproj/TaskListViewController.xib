@@ -91,7 +91,7 @@
 						</object>
 						<object class="IBUIAccessibilityConfiguration" key="IBUIAccessibilityConfiguration">
 							<string key="IBUIAccessibilityLabel">Add Task Heading</string>
-							<boolean value="YES" key="IBUIIsAccessibilityElement"/>
+							<boolean value="NO" key="IBUIIsAccessibilityElement"/>
 						</object>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 					</object>
