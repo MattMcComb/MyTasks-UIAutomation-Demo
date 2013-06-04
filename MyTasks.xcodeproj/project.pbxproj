@@ -14,13 +14,11 @@
 		FB3063B8DFF9681176A5C8D1 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FB306FA98989C47A62139EAD /* Default.png */; };
 		FB3064C527E4BEBA39F8C5F7 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB3064E8D789EDD681A4F094 /* SenTestingKit.framework */; };
 		FB3065219E6B865F537F355E /* TaskListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB306B48AA676D42E86D4825 /* TaskListViewController.m */; };
-		FB3065EAE5C5D9ED7F615F0F /* MyTasksTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB306176B934A603531AADE3 /* MyTasksTests.m */; };
 		FB3066894DE99B2A51998154 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FB306E07DDC7F6403BB131B9 /* Default@2x.png */; };
 		FB30675D71F3ECDBFAF8B875 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FB3067709CDD42010FFBED39 /* InfoPlist.strings */; };
 		FB3069AF0CDA8574C20D8E33 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FB3060CD6E156D4214A483B4 /* main.m */; };
 		FB306B0DD10AC14F0F7D0375 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB3067F674ED687D76FA842D /* Foundation.framework */; };
 		FB306C70BE8CDC827C54C424 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB30600C6241148E469CDFB3 /* UIKit.framework */; };
-		FB306CFE542FED1E8FE4F896 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FB3064D7C3B0CB4E994553D1 /* InfoPlist.strings */; };
 		FB306EC7A9624B54008D6DBF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB306875927E76DD910250E0 /* CoreGraphics.framework */; };
 		FB306FAA3D53CE3245161B86 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB3067F674ED687D76FA842D /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -42,12 +40,10 @@
 		FB3060CD6E156D4214A483B4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FB3060FFE21BF697AC6CAF9F /* image_assertion.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = image_assertion.js; sourceTree = "<group>"; };
 		FB3061432CB560F851CC60A8 /* test.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test.js; sourceTree = "<group>"; };
-		FB306176B934A603531AADE3 /* MyTasksTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTasksTests.m; sourceTree = "<group>"; };
 		FB30622F715A8C7B42163BB8 /* TaskList Tests.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "TaskList Tests.js"; sourceTree = "<group>"; };
 		FB3062CCA01C06EE03AAA055 /* preprocessor.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = preprocessor.rb; sourceTree = "<group>"; };
 		FB3062E60B264619239C40FD /* MyTasksTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyTasksTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB30631431A5F02C7624D875 /* MyTasks-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "MyTasks-Info.plist"; sourceTree = "<group>"; };
-		FB30633FCE3A417E1BB01912 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FB3064AB1175F3C80A4B51A3 /* MyTasks-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyTasks-Prefix.pch"; sourceTree = "<group>"; };
 		FB3064B50547DB4846693E75 /* assertions.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = assertions.js; sourceTree = "<group>"; };
 		FB3064E8D789EDD681A4F094 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
@@ -58,11 +54,9 @@
 		FB30672ECD8619C90BFEC898 /* TaskListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = TaskListViewController.xib; path = en.lproj/TaskListViewController.xib; sourceTree = "<group>"; };
 		FB306732E9CF03E0A9CBEF05 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FB3067F674ED687D76FA842D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		FB3068294AEC89531BBC25AD /* MyTasksTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTasksTests.h; sourceTree = "<group>"; };
 		FB30682F75D9590E1DF2BBAA /* colored_console_output.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = colored_console_output.rb; sourceTree = "<group>"; };
 		FB306844517527B3E4B87506 /* image_assertion.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = image_assertion.rb; sourceTree = "<group>"; };
 		FB306875927E76DD910250E0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FB30690F13F9A10C6B282692 /* MyTasksTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "MyTasksTests-Info.plist"; sourceTree = "<group>"; };
 		FB30697FC771C7BE94D5A304 /* uiautomation-ext.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "uiautomation-ext.js"; sourceTree = "<group>"; };
 		FB30699F0E468CE3C010FD74 /* tuneup.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = tuneup.js; sourceTree = "<group>"; };
 		FB306A1112CFC9829893049C /* image_asserter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = image_asserter; sourceTree = "<group>"; };
@@ -130,16 +124,6 @@
 			path = "Functional Tests";
 			sourceTree = "<group>";
 		};
-		FB30655A8F24132CEED62270 /* MyTasksTests */ = {
-			isa = PBXGroup;
-			children = (
-				FB306CF8687701D3DABBF438 /* Supporting Files */,
-				FB3068294AEC89531BBC25AD /* MyTasksTests.h */,
-				FB306176B934A603531AADE3 /* MyTasksTests.m */,
-			);
-			path = MyTasksTests;
-			sourceTree = "<group>";
-		};
 		FB30675B864C4DC1EF1E5FCA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -167,22 +151,12 @@
 			path = MyTasks;
 			sourceTree = "<group>";
 		};
-		FB306CF8687701D3DABBF438 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				FB30690F13F9A10C6B282692 /* MyTasksTests-Info.plist */,
-				FB3064D7C3B0CB4E994553D1 /* InfoPlist.strings */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		FB306E612D416C40458F2B0E = {
 			isa = PBXGroup;
 			children = (
 				FB306286F53531E08474FC15 /* Products */,
 				FB306EC3BD65D1D1CAECB52F /* Frameworks */,
 				FB306B245B8030B48D37694D /* MyTasks */,
-				FB30655A8F24132CEED62270 /* MyTasksTests */,
 				FB3064B85C5FD21205EA5D06 /* Functional Tests */,
 				FB306F0E2AEC452060103DDC /* tuneup */,
 			);
@@ -300,7 +274,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB306CFE542FED1E8FE4F896 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -327,7 +300,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB3065EAE5C5D9ED7F615F0F /* MyTasksTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -352,14 +324,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		FB3064D7C3B0CB4E994553D1 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FB30633FCE3A417E1BB01912 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
 		FB3067709CDD42010FFBED39 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -501,6 +465,7 @@
 				FB3066D68EE510F90451BDC0 /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FB306347364E8B590406F0B8 /* Build configuration list for PBXProject "MyTasks" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +483,7 @@
 				FB3068BC819DB0C29604DD77 /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
