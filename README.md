@@ -1,4 +1,4 @@
-## MyTaks Demo Project
+## MyTasks UIAutomation Demo Project
 
 A simple task list application used to demo the use of UIAutomation for automated functional testing of iOS apps.  
 
@@ -21,3 +21,7 @@ This application accompanies the blog post entitiled 'iOS Functional Testing wit
 - Load the test script by selecting Add –> Import… from the left hand pane (Scripts section). In the new finder window navigate to the project directory, open the Functional Tests folder and select the TaskList Tests.js script.
 - Switch the active pane from Trace Log to Script and hit the play button to begin execution of the tests.
 
+## Useful Resources
+- [Tuneup JS](https://github.com/alexvollmer/tuneup_js)
+- [Apple UIAutomation Reference Guide](http://developer.apple.com/library/ios/#documentation/DeveloperTools/Reference/UIAutomationRef/_index.html)
+- [Apple Introduction to Accessibility Programming](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/Accessibility/)
