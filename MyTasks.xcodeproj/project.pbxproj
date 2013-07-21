@@ -400,7 +400,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTasks/MyTasks-Prefix.pch";
-				INFOPLIST_FILE = "MyTasksTests/MyTasksTests-Info.plist";
+				INFOPLIST_FILE = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
@@ -417,7 +417,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyTasks/MyTasks-Prefix.pch";
-				INFOPLIST_FILE = "MyTasksTests/MyTasksTests-Info.plist";
+				INFOPLIST_FILE = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
